@@ -1,0 +1,5 @@
+# Project exclude paths
+/fch-block-indexer/target/
+/fch-open-api/target/
+/fch-utils/target/
+/out/
